@@ -2,7 +2,7 @@
 This is a Machine Learning Project to predict the House prices of Bengalore.
 ### Data:
       1. There will be training and testing data which will have features on which price of the property is based on.
-      2. Dataset was taken from Kaggle [Dataset](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)
+      2. Dataset was taken from Kaggle 
 ### Features:
       1. Area(sq ft)
       2. No.of Rooms (BHK)
